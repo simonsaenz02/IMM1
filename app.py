@@ -38,7 +38,7 @@ el gato... y se lo comió.
 """)
 
 # Entrada de texto
-text = st.text_area("✍️ Ingrese el texto a escuchar:")
+text = st.text_area("Ingrese el texto a escuchar:")
 
 # Selección de idioma
 option_lang = st.selectbox("🌐 Selecciona el idioma", ["Español", "English"])
